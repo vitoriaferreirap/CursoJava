@@ -1,0 +1,33 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Exercicio_6",
+      "request": "launch",
+      "mainClass": "lista_1.Exercicio_6",
+      "projectName": "JAVACurso_b6b96fa0"
+    },
+    {
+      "type": "java",
+      "name": "Exercicio_5",
+      "request": "launch",
+      "mainClass": "lista_1.Exercicio_5",
+      "projectName": "JAVACurso_b6b96fa0"
+    },
+    {
+      "type": "java",
+      "name": "Exercicio_4",
+      "request": "launch",
+      "mainClass": "lista_1.Exercicio_4",
+      "projectName": "JAVACurso_b6b96fa0"
+    },
+    {
+      "type": "java",
+      "name": "Run Current File",
+      "request": "launch",
+      "mainClass": "${file}",
+      "projectName": "JAVACURSO"
+    }
+  ]
+}
