@@ -3,6 +3,27 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercicio_3",
+      "request": "launch",
+      "mainClass": "lista_2.Exercicio_3",
+      "projectName": "JAVACurso_b6b96fa0"
+    },
+    {
+      "type": "java",
+      "name": "Exercicio_2",
+      "request": "launch",
+      "mainClass": "lista_2.Exercicio_2",
+      "projectName": "JAVACurso_b6b96fa0"
+    },
+    {
+      "type": "java",
+      "name": "Exercicio_1",
+      "request": "launch",
+      "mainClass": "lista_2.Exercicio_1",
+      "projectName": "JAVACurso_b6b96fa0"
+    },
+    {
+      "type": "java",
       "name": "Exercicio_6",
       "request": "launch",
       "mainClass": "lista_1.Exercicio_6",
