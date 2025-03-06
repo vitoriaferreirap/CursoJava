@@ -8,3 +8,5 @@ Lista 1 : Contém 6 exercícios (Exercícios sobre Estrutura Sequencial - entrad
 Lista 2 : Contém 8 exercícios (Exercícios sobre Estrutura Condicional if-else).
 
 Lista 3 : Contém 3 exercícios (Exercícios sobre estrutura repetitiva while).
+
+Lista 4 : Contém 7 exercícios (Exercícios sobre estrutura repetitiva for).
