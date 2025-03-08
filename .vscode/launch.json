@@ -3,6 +3,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Exercicio_1",
+      "request": "launch",
+      "mainClass": "lista_5.Exercicio_1",
+      "projectName": "ListasEx_CursoJava_69347000"
+    },
+    {
+      "type": "java",
       "name": "Exercicio_3",
       "request": "launch",
       "mainClass": "lista_4.Exercicio_3",
