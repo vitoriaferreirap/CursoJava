@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Scanner;
 
 /*Operações com vetores:
-*2 º Situação Hipotética: Um supermercado precisa registrar o preço de N produtos
-e depois calcular o total da compra de um cliente que leva M produtos escolhidos..
+*2º Situação Hipotética: Um supermercado precisa registrar o preço de N produtos
+e depois calcular o total da compra de M produtos escolhidos..
  */
 
 public class Exercicio_5 {
