@@ -37,7 +37,7 @@ public class Exercicio_1 {
       }
     }
 
-    System.out.printf("A MAIOR IDADE ESTÁ NO POSICÃO : %d do array\n", maiorPosicao);
+    System.out.printf("A MAIOR IDADE ESTÁ NA POSICÃO : %d do array\n", maiorPosicao);
     System.out.printf("O NOME DA PESSOA QUE TEM A MAIOR IDADE É: %s\n", arrayNome[maiorPosicao]);
     System.out.printf("A IDADE DA PESSOA MAIS VELHA É : %d\n", arrayIdade[maiorPosicao]);
 

@@ -58,7 +58,7 @@ public class Exercicio_5 {
     System.out.println("Produtos cadastrados:");
 
     for (int i = 0; i < nomes.size(); i++) {
-      System.out.printf("Produto:" + nomes.get(i) + " Quatidade:" + qtds.get(i) + " Preço Unidade:" + precos.get(i)
+      System.out.printf("Produto:" + nomes.get(i) + " Quantidade:" + qtds.get(i) + " Preço Unidade:" + precos.get(i)
           + " Valor total:" + total.get(i) + "\n");
 
     }

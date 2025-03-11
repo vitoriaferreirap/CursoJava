@@ -20,7 +20,7 @@ public class Exercicio_4 {
     double[] provaDois = new double[qtdAlunos];
 
     for (int i = 0; i < qtdAlunos; i++) {
-      System.out.println("nota 1º  prova: ");
+      System.out.println("nota 1º prova: ");
       provaUm[i] = sc.nextDouble();
       System.out.println("nota 2º prova: ");
       provaDois[i] = sc.nextDouble();
