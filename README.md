@@ -15,3 +15,5 @@ Lista 4 : Contém 7 exercícios (Exercícios sobre Estrutura repetitiva for).
 Lista 5 : Contém 6 exercícios (Exercícios sobre Array (fixo) e ArrayList).
 
 Lista 6 : Contém 6 exercícios (Exercícios sobre Matrizes).
+
+Lista 7 : Contém 1 arquivo com varias opções para se trabalhar com data e hora (Exercícios sobre data e hora).
