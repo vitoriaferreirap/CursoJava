@@ -11,7 +11,7 @@ import java.time.format.DateTimeFormatter;
  * Instant - Representa um ponto específico no tempo atual.
  * LocalDate - Representa apenas datas: dia/mes/ano dd/MM/yyyy. Não trabalho com horários
  * DateTimeFormatter - Permite formatar e converter datas para diferentes padrões
- * Z - está no horário de Greenwich 
+ * Z - está no horário de Greenwich
  * parse() - Método é utilizado para converter uma string em um objeto de data/hora.
  * .withZone(ZoneId.systemDefault()) - Converte a data para o fuso horário do sistema local
  */
