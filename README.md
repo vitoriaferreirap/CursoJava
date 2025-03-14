@@ -16,8 +16,11 @@ Lista 5 : Contém 6 exercícios (Exercícios sobre Array (fixo) e ArrayList).
 
 Lista 6 : Contém 6 exercícios (Exercícios sobre Matrizes).
 
-Lista 7 : Contém 1 arquivo com varias opções para se trabalhar com data e hora (Exercícios sobre data e hora).
+Lista 7 : Contém 1 exercício com varias opções para se trabalhar com data e hora (Exercícios sobre data e hora).
 
 Lista 8 : Contém 4 exercícios (Exercícios sobre funções).
 
-Lista 9 : Contém 4 exercícios (Exercícios sobre exceções).
+Lista 9 : Contém 1 exercício testando algumas exceções (Exercícios sobre exceções).
+
+Exercicios_com_pacotes : Aplicação separa em pacotes, sendo eles aplicacao, entidades.
+Programa - classe principal
