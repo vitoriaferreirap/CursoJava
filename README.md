@@ -4,23 +4,15 @@
 
 ##Este repositório é responsável por armazenar listas de exercícios para alunos iniciantes no curso de Java.
 
+Dentro da pasta exercicios_Praticos temos:
 Lista 1 : Contém 6 exercícios (Exercícios sobre Estrutura Sequencial - entrada, processamento e saída).
-
 Lista 2 : Contém 8 exercícios (Exercícios sobre Estrutura Condicional if-else).
-
 Lista 3 : Contém 3 exercícios (Exercícios sobre Estrutura repetitiva while).
-
 Lista 4 : Contém 7 exercícios (Exercícios sobre Estrutura repetitiva for).
-
 Lista 5 : Contém 6 exercícios (Exercícios sobre Array (fixo) e ArrayList).
-
 Lista 6 : Contém 6 exercícios (Exercícios sobre Matrizes).
-
 Lista 7 : Contém 1 exercício com varias opções para se trabalhar com data e hora (Exercícios sobre data e hora).
-
-Lista 8 : Contém 4 exercícios (Exercícios sobre funções).
-
+Lista 8 : Contém 4 exercícios (Exercícios sobre funções)
 Lista 9 : Contém 1 exercício testando algumas exceções (Exercícios sobre exceções).
 
-Exercicios_com_pacotes : Aplicação separa em pacotes, sendo eles aplicacao, entidades.
-Programa - classe principal
+Dentro da pasta conceitos_POO:
