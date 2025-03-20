@@ -8,7 +8,7 @@ Além disso, inclui o uso da GitHub API para a criação de repositórios via li
 
 📂 Estrutura do Repositório
 
-📝 1. Exercícios Práticos 📂 exercicios_Praticos
+1. 📂 exercicios_Praticos
 
 🔹Conjunto de listas que exploram estruturas fundamentais da linguagem Java.
 
@@ -30,7 +30,7 @@ Além disso, inclui o uso da GitHub API para a criação de repositórios via li
 
 ✔ Lista 9: Tratamento de Exceções (1 exercício) - Aplicação de try-catch.
 
-📝 2. Conceitos de Programação Orientada a Objetos (POO) 📂 conceitos_POO
+2. 📂 conceitos_POO
 
 🔹Esta seção cobre conceitos essenciais da Programação Orientada a Objetos (POO) em Java, como:
 
