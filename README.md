@@ -2,20 +2,8 @@
 
 Este repositório contém listas de exercícios voltadas para alunos iniciantes no curso de Java. Os exercícios abordam desde conceitos básicos de estrutura sequencial até tópicos avançados de Programação Orientada a Objetos (POO).link curso;
 
-📂 conceitos_POO
+##Modificações:
 
-🔹Esta seção cobre conceitos essenciais da Programação Orientada a Objetos (POO) em Java, como:
-
-✔ Classes e Objetos
-
-✔ Encapsulamento (getters/setters)
-
-✔ Polimorfismo
-
-✔Herança
-
-✔ Interfaces
-
-✔ Modificadores de Acesso
-
-Feito por Vitoria Ferreira.
+- [x] nomes de pastas (exercicios_praticos) trocados;
+- [] nomes de exercicios (conceitos_poo) trocadas;
+- [] separação da classe principal e subclasses com pacotes;
