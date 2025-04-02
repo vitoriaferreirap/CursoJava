@@ -1,4 +1,4 @@
-package conceitos_poo.ex_11_encapsulamento;
+package conceitos_poo.ex_11;
 
 //pubicacao
 
